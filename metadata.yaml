@@ -1,0 +1,31 @@
+_repo: Robert-Burns_21330
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shairp, John Campbell
+    aliases:
+    - Shairp, Principal
+    - Shairp, J. C. (John Campbell)
+    birthdate: 1819
+    deathdate: 1885
+    gutenberg_agent_id: '9860'
+    url: http://www.gutenberg.org/2009/agents/9860
+description: ''
+gutenberg_issued: '2007-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21330'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Scotland -- In literature'
+- !lcsh 'Burns, Robert, 1759-1796'
+- !lcsh 'Poets, Scottish -- 18th century -- Biography'
+title: Robert Burns
+url: http://www.gutenberg.org/ebooks/21330
